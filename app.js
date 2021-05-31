@@ -26,4 +26,7 @@ console.log(git.commit("Added index.html file"));
 //6. Push
 console.log(git.push());
 
+
+//from feature_git_add_all
+
 // git_add_asterisk
